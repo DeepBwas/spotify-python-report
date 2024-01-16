@@ -4,4 +4,5 @@ All credit goes to the team as this is a group project with my friends in my sec
 Download the .py file and the .xlsx file. Put/keep them in same directory and run the .py file. You will see a menu in the terminal which can be used to generate various reports for the spotify songs data (excelsheet). 
 Feel free to reach out with any questions or enquiry.
 ## Dependencies
-Please install python 3.12 in order to run the project. You can find instructions here, https://www.python.org/downloads/
+Please install python 3.12 in order to run the project. You can find the downloads here, https://www.python.org/downloads/ and you can find instructions here, https://wiki.python.org/moin/BeginnersGuide
+Thank you.
