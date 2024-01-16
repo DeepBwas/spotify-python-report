@@ -28,6 +28,7 @@ The project that we created will show to the user a welcome message and then a p
 6. Top 10 workout Songs Report
 7. Top genres Report
 8. Exit
+
 Our code will display a report for any option that the user chooses and implement bar graphs or graphs in it while exporting. We believe that in addition to creating a file and new table with the data, a chart will increase the view and improve the experience of the user. For this functionality we decided to work with a worksheet to create a general report to show the user what the data is about and its content in the introduction function. Then, top ten most popular songs, top ten most danceable songs, Top 10 most popular songs of each decade report, top ten artists, top ten workout songs, top genres report. We use excel sheet and python libraries to analyze the data. Finally, we believe that the implementation provided will help users make better decisions, to have a general view according to the trend and popularity that the data shows, they can follow our recommendations to decide and enjoy better music themselves.
 Thank you.
 
